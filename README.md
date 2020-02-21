@@ -10,8 +10,8 @@ Videos of motor driver in action:
 
 
 ## What I am currently working on :
-- ~~trying to implement cascase style controller for this driver 
-- ~~i2c communication
+- ~~trying to implement cascase style controller for this driver~~ 
+- ~~i2c communication~~
 - self diagnostic 
 - RS485 comms
 - implementing temperature sensors
