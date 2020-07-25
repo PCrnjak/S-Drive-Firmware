@@ -1,8 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # S_Drive---small-BLDC-driver
 
-S_drive is open source BLDC driver for robotics, camera gimbals and more ... 
-Unlike other BLDC drivers on marked S_drive is fully integrated solution i.e.
-you dont need any extra encoders, sensors, connectors... 
+        S_drive is open source BLDC driver for robotics, camera gimbals and more ... 
+        Unlike other BLDC drivers on marked S_drive is fully integrated solution i.e.
+        you dont need any extra encoders, sensors, connectors... 
 
 <img src="https://user-images.githubusercontent.com/30388414/88465498-c490f400-cec3-11ea-915a-4ed1964ab32f.jpg" width="500">
 
@@ -16,12 +17,12 @@ you dont need any extra encoders, sensors, connectors...
 
 # Contents:
 
--/ [Low level code](https://www.google.com/)
--/ [High level code (ROS and Matlab)](https://www.google.com/)
--/ [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
--/ [BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
--/ [DOCS](https://www.google.com/) Contains ALL info about the driver.
--/ [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
+-[/Low level code](https://www.google.com/)
+-[/High level code (ROS and Matlab)](https://www.google.com/)
+-[/Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
+-[/BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
+-[/DOCS](https://www.google.com/) Contains ALL info about the driver.
+-[/URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
 
 # Where to see more about S_drive
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
