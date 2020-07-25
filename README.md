@@ -1,26 +1,42 @@
 # S_Drive---small-BLDC-driver
 
-S_drive is open source BLDC driver for robotics , camera gimbals and more ... 
-Goal of the project is to create small and cheap drivers for BLDC motors with good software support.
-Videos of motor driver in action:
-- https://www.youtube.com/watch?v=NwH22_6VmG0
-- https://www.youtube.com/watch?v=N9GRZ6Rcv2g
+S_drive is open source BLDC driver for robotics, camera gimbals and more ... 
+Unlike other BLDC drivers on marked S_drive is fully integrated solution i.e.
+you dont need any extra encoders, sensors, connectors... 
 
-<img src="https://user-images.githubusercontent.com/30388414/71816801-08d1b980-3084-11ea-843d-6eddfec23fe5.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/30388414/88465498-c490f400-cec3-11ea-915a-4ed1964ab32f.jpg" width="500">
 
-
-## What I am currently working on :
-- ~~trying to implement cascase style controller for this driver~~ 
-- ~~i2c communication~~
-- self diagnostic 
-- RS485 comms
-- implementing temperature sensors
-- redesign of board (Encoder on board , temperature sensors,and daisy chain ability)
+    S_drive project consists of S_drive PCB board and S_drive firmware.
+    S_drive firmware is build with soft robotics in mind. It is working best with Gimbal BLDC motors and 
+    small reduction ratios from 1:4 - 1:10.
+    
+# How to start using S_drive?
+  
 
 
-## Done :
-- PID velocity and position control 
-- precise position hold under load 
-- Gravity compensation mode
-- 
+# Contents:
 
+-/ [Low level code](https://www.google.com/)
+-/ [High level code (ROS and Matlab)](https://www.google.com/)
+-/ [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
+-/ [BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
+-/ [DOCS](https://www.google.com/) Contains ALL info about the driver.
+-/ [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
+
+# Where to see more about S_drive
+- [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
+- [Official company page]()
+- [Hackaday blog](https://hackaday.io/project/167247-faze4-robotic-arm)
+- [DOCS](https://www.google.com/)
+
+# Features being worked on:
+
+
+# Support the project
+
+This project is completely Open source and free to all and I would like to keep it that way, so any help 
+in terms of donations or advice is really appreciated. Thank you!
+
+[![Check the arm in action !](https://user-images.githubusercontent.com/30388414/86798915-a036ba00-c071-11ea-824d-4456f2cdf797.png)](https://paypal.me/PCrnjak?locale.x=en_US)
+
+# Project is under MIT Licence
