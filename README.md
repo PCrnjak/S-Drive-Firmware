@@ -1,15 +1,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # S_Drive---small-BLDC-driver
 
-        S_drive is open source BLDC driver for robotics, camera gimbals and more ... 
-        Unlike other BLDC drivers on marked S_drive is fully integrated solution i.e.
-        you dont need any extra encoders, sensors, connectors... 
+    S_drive is open source BLDC driver for robotics, camera gimbals and more ... 
+    Unlike other BLDC drivers on marked S_drive is fully integrated solution i.e.
+    you dont need any extra encoders, sensors, connectors... 
 
 <img src="https://user-images.githubusercontent.com/30388414/88465498-c490f400-cec3-11ea-915a-4ed1964ab32f.jpg" width="500">
 
     S_drive project consists of S_drive PCB board and S_drive firmware.
-    S_drive firmware is build with soft robotics in mind. It is working best with Gimbal BLDC motors and 
-    small reduction ratios from 1:4 - 1:10.
+    S_drive firmware is build with soft robotics in mind. It is working best with 
+    Gimbal BLDC motors and small reduction ratios from 1:4 - 1:10.
     
 # How to start using S_drive?
   
@@ -41,3 +41,4 @@ in terms of donations or advice is really appreciated. Thank you!
 [![Check the arm in action !](https://user-images.githubusercontent.com/30388414/86798915-a036ba00-c071-11ea-824d-4456f2cdf797.png)](https://paypal.me/PCrnjak?locale.x=en_US)
 
 # Project is under MIT Licence
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
