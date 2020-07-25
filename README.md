@@ -17,12 +17,12 @@
 
 # Contents:
 
--[/Low level code](https://www.google.com/)
--[/High level code (ROS and Matlab)](https://www.google.com/)
--[/Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
--[/BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
--[/DOCS](https://www.google.com/) Contains ALL info about the driver.
--[/URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
+- [/Low level code](https://www.google.com/)
+- [/High level code (ROS and Matlab)](https://www.google.com/)
+- [/Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
+- [/BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
+- [/DOCS](https://www.google.com/) Contains ALL info about the driver.
+- [/URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
 
 # Where to see more about S_drive
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
