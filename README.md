@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL-3.0](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # S_Drive---small-BLDC-driver
 
     S_drive is open source BLDC driver for robotics, camera gimbals and more ... 
@@ -41,4 +41,4 @@ in terms of donations or advice is really appreciated. Thank you!
 [![Check the arm in action !](https://user-images.githubusercontent.com/30388414/86798915-a036ba00-c071-11ea-824d-4456f2cdf797.png)](https://paypal.me/PCrnjak?locale.x=en_US)
 
 # Project is under MIT Licence
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL-3.0](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
