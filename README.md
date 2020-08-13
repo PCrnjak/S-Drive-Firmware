@@ -1,4 +1,4 @@
-[![License: GPL-3.0](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL-3.0]([![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0))](https://opensource.org/licenses/GPL-3.0 License)
 # S_Drive---small-BLDC-driver
 
     S_drive is open source BLDC driver for robotics, camera gimbals and more ... 
