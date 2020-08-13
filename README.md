@@ -12,7 +12,7 @@
     S-drive firmware is build with soft robotics in mind and ease of use.
     
     S-drive board is based on L6234D BLDC drivers and stm32 microcontroller.
-    S-drive is also capable of running other Open source firmwares like: 
+    S-drive PCB is also capable of running other Open source firmwares like: 
     
 # How to start using S_drive?
   
@@ -43,6 +43,6 @@ in terms of donations or advice is really appreciated. Thank you!
 
 [![Check the arm in action !](https://user-images.githubusercontent.com/30388414/86798915-a036ba00-c071-11ea-824d-4456f2cdf797.png)](https://paypal.me/PCrnjak?locale.x=en_US)
 
-# Project is under MIT Licence
+# Project is under GPL v3 Licence
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
