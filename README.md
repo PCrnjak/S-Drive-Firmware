@@ -1,16 +1,18 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-# S_Drive---small-BLDC-driver
+# S-Drive-Firmware
 
-    S_drive is open source BLDC driver for robotics, camera gimbals and more ... 
-    Unlike other BLDC drivers on marked S_drive is fully integrated solution i.e.
+    S-drive project is open source BLDC driver for robotics, camera gimbals and more ... 
+    Unlike other BLDC drivers on market S-drive is fully integrated solution i.e.
     you dont need any extra encoders, sensors, connectors... 
 
 <img src="https://user-images.githubusercontent.com/30388414/88465498-c490f400-cec3-11ea-915a-4ed1964ab32f.jpg" width="500">
 
-    S_drive project consists of S_drive PCB board and S_drive firmware.
-    S_drive firmware is build with soft robotics in mind. It is working best with 
-    Gimbal BLDC motors and small reduction ratios from 1:4 - 1:10.
+    S-drive project consists of S_drive PCB board and S-drive firmware.
+    S-drive firmware is build with soft robotics in mind and ease of use.
+    
+    S-drive board is based on L6234D BLDC drivers and stm32 microcontroller.
+    S-drive is also capable of running other Open source firmwares like: 
     
 # How to start using S_drive?
   
