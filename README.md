@@ -1,4 +1,5 @@
-[![License: GPL-3.0]([![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0))](https://opensource.org/licenses/GPL-3.0 License)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 # S_Drive---small-BLDC-driver
 
     S_drive is open source BLDC driver for robotics, camera gimbals and more ... 
@@ -17,12 +18,12 @@
 
 # Contents:
 
-- [/Low level code](https://www.google.com/)
-- [/High level code (ROS and Matlab)](https://www.google.com/)
-- [/Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
-- [/BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
-- [/DOCS](https://www.google.com/) Contains ALL info about the driver.
-- [/URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
+- [Low level code](https://www.google.com/)
+- [High level code (ROS and Matlab)](https://www.google.com/)
+- [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
+- [BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
+- [DOCS](https://www.google.com/) Contains ALL info about the driver.
+- [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
 
 # Where to see more about S_drive
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
@@ -41,4 +42,5 @@ in terms of donations or advice is really appreciated. Thank you!
 [![Check the arm in action !](https://user-images.githubusercontent.com/30388414/86798915-a036ba00-c071-11ea-824d-4456f2cdf797.png)](https://paypal.me/PCrnjak?locale.x=en_US)
 
 # Project is under MIT Licence
-[![License: GPL-3.0](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
