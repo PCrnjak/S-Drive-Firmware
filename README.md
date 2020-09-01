@@ -20,13 +20,13 @@
     
 # How to start using S_drive?
 
-> ***At contstruction*** 
+> ***Coming soon*** 
 
 
 
 # Contents:
 
-> ***At contstruction*** 
+> ***Coming soon*** 
 
 - [BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
 - [DOCS](https://www.google.com/) Contains ALL info about the driver.
@@ -36,7 +36,7 @@
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
 - [Official company page]()
 - [Hackaday blog](https://hackaday.io/project/167247-faze4-robotic-arm)
-- [DOCS](https://www.google.com/)
+- [DOCS](https://www.google.com/) coming soon!
 
 # Features being worked on:
 - RS485 daisy chain ability
