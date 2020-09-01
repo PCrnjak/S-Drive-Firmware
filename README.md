@@ -1,5 +1,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+> ***Board preorder*** 📝 If you are intersted in PCB used in this robotic arm check this [preorder link](https://forms.gle/rfiXTUGop5MP9DGJ7) !
+
+> ***First release is here!*** ⭐
+
 # S-Drive-Firmware
 
     S-drive project is open source BLDC driver for robotics, camera gimbals and more ... 
@@ -15,14 +19,15 @@
     S-drive PCB is also capable of running other Open source firmwares like: 
     
 # How to start using S_drive?
-  
+
+> ***At contstruction*** 
+
 
 
 # Contents:
 
-- [Low level code](https://www.google.com/)
-- [High level code (ROS and Matlab)](https://www.google.com/)
-- [Building instructions](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Assembly%20instructions%203.0.pdf)
+> ***At contstruction*** 
+
 - [BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
 - [DOCS](https://www.google.com/) Contains ALL info about the driver.
 - [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
@@ -34,7 +39,8 @@
 - [DOCS](https://www.google.com/)
 
 # Features being worked on:
-
+- RS485 daisy chain ability
+- Stability and safety 
 
 # Support the project
 
