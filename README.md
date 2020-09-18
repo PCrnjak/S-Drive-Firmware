@@ -28,15 +28,13 @@
 
 > ***Coming soon*** 
 
-- [BOM](https://github.com/PCrnjak/Faze4-Robotic-arm/blob/master/Bom_1.2_joint2_update.xlsx) 
-- [DOCS](https://www.google.com/) Contains ALL info about the driver.
-- [URDF files](https://github.com/PCrnjak/Faze4-Robotic-arm/tree/master/URDF_FAZE4) 
+
 
 # Where to see more about S_drive
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
-- [Official company page]()
+- [Official company page](https://blestron.com/)
 - [Hackaday blog](https://hackaday.io/project/167247-faze4-robotic-arm)
-- [DOCS](https://www.google.com/) coming soon!
+- [DOCS](https://s-drive-small-bldc-driver.readthedocs.io/en/latest//) 
 
 # Features being worked on:
 - RS485 daisy chain ability
