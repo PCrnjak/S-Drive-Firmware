@@ -1,8 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-> ***Board preorder*** 📝 If you are intersted in PCB used in this robotic arm check this [preorder link](https://forms.gle/eHPAsbJ77hMaUC4FA) !
 
-> ***First release is here!*** ⭐
 
 # S-Drive-Firmware
 
