@@ -30,7 +30,6 @@
 
 # Where to see more about S_drive
 - [Youtube](https://www.youtube.com/channel/UCp3sDRwVkbm7b2M-2qwf5aQ)
-- [Official company page](https://blestron.com/)
 - [Hackaday blog](https://hackaday.io/project/167247-faze4-robotic-arm)
 - [DOCS](https://s-drive-small-bldc-driver.readthedocs.io/en/latest//) 
 
