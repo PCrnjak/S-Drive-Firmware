@@ -1,4 +1,4 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Issues](https://img.shields.io/github/issues/PCrnjak/S-Drive-Firmware) ![release](https://img.shields.io/github/v/release/PCrnjak/S-Drive-Firmware)
 
 
 Our official website: https://source-robotics.com/
